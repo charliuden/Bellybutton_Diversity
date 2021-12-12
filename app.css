@@ -1,0 +1,25 @@
+html, body {
+    font-family: 'Roboto', sans-serif;
+ 
+}
+h1 {
+    font-family: 'Playfair Display', serif;
+    font-size: 8rem;
+    font-weight: 900;
+    letter-spacing: 2px;
+    color: #13ab0e;
+}
+
+.fragment-one {
+    background-color: #ecf02d;
+    color: #f08582;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+.jumbotron .h1, .jumbotron h1 {
+    color:#f08582;
+  }
